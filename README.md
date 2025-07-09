@@ -63,5 +63,6 @@ Typed Python
 Extensive use of Python typing for improved code clarity and maintainability.
 
 Large Language Models (LLMs)
-Assisted development with AI-based code generation tools.
+Used Chat-gpt for building the fetcher.
 
+TestPYPI link cmd: pip install -i https://test.pypi.org/simple/ pubmed-fetcher-shrey

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pubmed-fetcher"
+name = "pubmed-fetcher-shrey"
 version = "0.1.0"
 description = "Fetch PubMed papers with non-academic biotech/pharma authors"
 authors = ["Your Name <youremail@example.com>"]
